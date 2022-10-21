@@ -15,4 +15,6 @@ Required external libraries:
 
 Board to select in the IDE: WIZnet WizFi360-EVB-Pico
 
+[Here is a short video showing the device](https://youtu.be/WaZvuO-cZuY)
+
 Entry for WizFi360 Design Contest 2022
