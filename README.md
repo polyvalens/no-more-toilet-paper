@@ -1,4 +1,4 @@
-# No More Toilet Paper!
+# Oh No! No More Toilet Paper!
 
 IoT device capable of detecting if there is toilet paper left on the dispenser or not.
 
