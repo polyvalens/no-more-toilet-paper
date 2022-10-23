@@ -17,4 +17,4 @@ Board to select in the IDE: WIZnet WizFi360-EVB-Pico
 
 [Here is a short video showing the device](https://youtu.be/WaZvuO-cZuY)
 
-Entry for WizFi360 Design Contest 2022
+This project is an entry for WizFi360 Design Contest 2022. [Here is the project description](https://maker.wiznet.io/clemo/contest/oh-no%21-no-more-toilet-paper%21/)
